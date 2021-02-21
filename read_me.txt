@@ -1,5 +1,8 @@
-# Lexer
- Project for tokenizing for lexical analysis
+Made by-
+Vanshaj Aggarwal 2018A7PS0309H
+Saksham Pandey 2018A7PS0259H
+Surinder Singh Virk 2018A7PS0234H
+Arpit Adlakha 2018A7PS0250H
 
 PLEASE NOTE THAT
 To compile write in terminal-
